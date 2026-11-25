@@ -1,0 +1,1 @@
+Each entry is one six-word story about an AI agent's first payday, at most 60 characters and exactly six words. A judge model reads entries two at a time and picks the one that fits the most story, surprise and feeling into those six words. Fun, quick and free to enter.
